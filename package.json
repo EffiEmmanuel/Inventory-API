@@ -1,0 +1,28 @@
+{
+  "name": "Inventory",
+  "version": "1.0.0",
+  "description": "Inventory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "News",
+    "Portal",
+    "Backend"
+  ],
+  "author": "Effi Emmanuel",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.17.2",
+    "mongoose": "^5.12.7",
+    "multer": "^1.4.4",
+    "nodemailer": "^6.7.7",
+    "nodemon": "^2.0.15",
+    "slugify": "^1.5.0",
+    "uuid": "^8.3.2"
+  }
+}
